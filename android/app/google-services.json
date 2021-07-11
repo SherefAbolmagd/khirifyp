@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "328918448573",
+    "project_id": "khairi-fyp",
+    "storage_bucket": "khairi-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328918448573:android:f29a57638726f4f40abad4",
+        "android_client_info": {
+          "package_name": "com.example.khairi_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328918448573-579n7oi18cms2l809gsd8amnsrurio4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1tSYhofw47QDlphRLCYjLQUyUzwcgTDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328918448573-579n7oi18cms2l809gsd8amnsrurio4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
